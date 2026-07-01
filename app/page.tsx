@@ -128,7 +128,55 @@ export default function Home() {
   </li>
 </ul>
 </section>
+<section className="mt-12 text-left max-w-3xl mx-auto space-y-6">
 
+  <div>
+    <h2 className="text-2xl font-bold mb-3">
+      年収計算ツールの使い方
+    </h2>
+    <p>
+      この年収計算ツールは、月給やボーナス額を入力するだけで、
+      1年間の総収入を自動計算できる無料ツールです。
+      転職時の年収比較や将来の収入設計にも役立ちます。
+    </p>
+  </div>
+
+  <div>
+    <h2 className="text-2xl font-bold mb-3">
+      こんな人におすすめ
+    </h2>
+    <p>
+      転職を検討している方、現在の収入を把握したい方、
+      ボーナス込みで年間どれくらい収入があるか確認したい方におすすめです。
+      将来設計や家計管理にも便利です。
+    </p>
+  </div>
+
+  <div>
+    <h2 className="text-2xl font-bold mb-3">
+      計算例
+    </h2>
+    <p>
+      例えば月給30万円でボーナスが年間60万円の場合、
+      年収は420万円になります。
+      月給だけでは分からない年間収入を簡単に把握できます。
+    </p>
+  </div>
+
+  <div>
+    <h2 className="text-2xl font-bold mb-3">
+      よくある質問
+    </h2>
+    <p>
+      Q. ボーナスなしでも使えますか？<br />
+      A. はい。月給のみ入力して年収を計算できます。<br /><br />
+
+      Q. 税金は引かれていますか？<br />
+      A. このツールは額面ベースの年収計算です。
+    </p>
+  </div>
+
+</section>
 <section className="mt-10 bg-white rounded-xl p-6">
   <p className="text-sm text-gray-700 leading-7">
     このサイトでは、仕事・給与・副業に役立つ無料計算ツールを公開しています。
