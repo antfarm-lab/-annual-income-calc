@@ -6,6 +6,10 @@ export const metadata: Metadata = {
 
   description:
     "月収を入力するだけで年間の収入を無料で自動計算できる便利ツールです。",
+verification: {
+  google: "miCxwdbgRhGe66W37cjiBB0MFNO1tB2WJxh9Dm_zTjc",
+},
+
 
   keywords: [
     "年収計算",
